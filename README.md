@@ -32,8 +32,7 @@ height="200px":
 《مقدار ارتفاع ویدیو(عمودی)》
 
 دمو و پیشنمایش پروژه:
-
-[https://yektamovie.github.io/video-html-simple/](https://virgool.io/@alirezadigi)
+https://yektamovie.github.io/video-html-simple/
 <h3>English(en)</h3>
 
 ```html
