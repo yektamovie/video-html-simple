@@ -31,5 +31,5 @@ height="200px":
 
 دمو و پیشنمایش پروژه:
 
-[Alirezadigi](https://virgool.io/@alirezadigi)
+[https://yektamovie.github.io/video-html-simple/](https://virgool.io/@alirezadigi)
 <h3>English(en)</h3>
