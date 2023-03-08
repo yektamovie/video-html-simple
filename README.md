@@ -33,11 +33,13 @@ height="200px":
 
 [https://yektamovie.github.io/video-html-simple/](https://virgool.io/@alirezadigi)
 <h3>English(en)</h3>
+
 ```html
 <video controls autoplay src=""
 width="100%" height="200px">
 </video>
 ```
+
 The code above is for creating a video in html, which we explain below:
 
  Controls: 
@@ -61,4 +63,4 @@ src:
 《Video height value (vertical)》
 
  Demo project and preview:
-https://yektamovie.github.io/video-html-simple/(https://virgool.io/@alirezadigi)
+https://yektamovie.github.io/video-html-simple/
