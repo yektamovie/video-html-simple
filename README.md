@@ -38,5 +38,27 @@ height="200px":
 width="100%" height="200px">
 </video>
 ```
-The code above is for creating a video in html, which we explain below: Controls: 《It is used to add buttons such as stop and start the video or mute the sound, etc.》 Autoplay: 《When the page is opened, the video will start playing without clicking the play button.》 src: 《Here is the link of the video to play》 width = "100%": 《The value of the width of the video (horizontal), which is now on 100%, which means it covers the entire screen》 height=200px: 《Video height value (vertical)》 Demo project and preview:
-[https://yektamovie.github.io/video-html-simple/](https://virgool.io/@alirezadigi)
+The code above is for creating a video in html, which we explain below:
+
+ Controls: 
+
+《It is used to add buttons such as stop and start the video or mute the sound, etc.》 
+
+Autoplay: 
+
+《When the page is opened, the video will start playing without clicking the play button.》 
+
+src: 
+
+《Here is the link of the video to play》
+
+ width = "100%":
+
+ 《The value of the width of the video (horizontal), which is now on 100%, which means it covers the entire screen》
+
+ height=200px: 
+
+《Video height value (vertical)》
+
+ Demo project and preview:
+https://yektamovie.github.io/video-html-simple/(https://virgool.io/@alirezadigi)
